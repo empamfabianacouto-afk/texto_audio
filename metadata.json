@@ -1,0 +1,8 @@
+{
+  "name": "IA - Converter áudio para texto",
+  "description": "Conversão de texto para áudio com múltiplas linguagens e vozes da IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
